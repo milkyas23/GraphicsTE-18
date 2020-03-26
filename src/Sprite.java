@@ -1,9 +1,4 @@
-/**
- * This is a class
- * Created 2020-03-26
- *
- * @author Magnus Silverdal
- */
+
 public class Sprite {
     private int width;
     private int height;
